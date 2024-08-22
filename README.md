@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Sample Page
 
-This project is a starting point for a Flutter application.
+![lightmode](https://github.com/user-attachments/assets/542987b2-15d4-4986-b747-b3773227fee2)
 
-A few resources to get you started if this is your first Flutter project:
+![darkmode](https://github.com/user-attachments/assets/fb6f19c2-0c67-4d0f-878d-c6f2dbbe6743)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
