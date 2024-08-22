@@ -17,9 +17,9 @@ class ThemeProvider with ChangeNotifier {
   // change theme data
   void toggleTheme() {
     if (_themeData == lightMode) {
-      _themeData = dartMode;
+      themeData = dartMode;
     } else {
-      _themeData = lightMode;
+      themeData = lightMode;
     }
   }
 }
